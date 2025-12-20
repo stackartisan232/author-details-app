@@ -16,4 +16,4 @@ A python project that extracts author names and their quotes from text data.
 
   ##Future improvements
   -Add file input
-  -Improve data formatting
+  -Improve data formatting.
