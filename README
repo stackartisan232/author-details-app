@@ -1,0 +1,14 @@
+#Text Adventure Game
+
+console-based game where players make choices and navigate story path.
+
+##Features
+-Branching storylines
+-User input handling
+-Replay functionality
+
+##Technologies used
+-python
+
+##How to run
+python game.py
