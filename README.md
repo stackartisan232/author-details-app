@@ -1,4 +1,4 @@
-#Author Deatails App
+#Author Details App
 
 A python project that extracts author names and their quotes from text data.
 
